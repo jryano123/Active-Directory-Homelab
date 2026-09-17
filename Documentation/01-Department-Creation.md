@@ -4,7 +4,7 @@ Created departments in Active Directory to organize users according to their res
 
 ## Screenshot
 
-![Created Departments](../Screenshots/01-Created Departments.png)
+![Created Departments](../Screenshots/01-Created-Departments.png)
 
 ## What I Did
 
