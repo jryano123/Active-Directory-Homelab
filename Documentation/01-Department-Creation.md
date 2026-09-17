@@ -7,7 +7,7 @@ Created departments in Active Directory to organize users according to their res
 ![Created Departments](../Screenshots/01-Created-Departments.png)
 
 ## What I Did
-
+Tools > AD Users and Computers > Right Click lab.local > New > Org Unit >  Name: Departments
 - Opened Active Directory Users and Computers (ADUC)
 - Created the required department structure
 - Organized departments within the appropriate domain structure
