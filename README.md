@@ -20,15 +20,15 @@ I'm a computer science graduate I like learning by building things hands-on, whe
 
 
 | Active Directory Skills
-|-----------------------------------------------|----------------------------|
-* Active Directory Department & Organizational Unit (OU) Management
-* User Account Creation & Management
-* Security Group Creation & Management
-* User Group Membership Management
-* Computer Account & OU Management
-* Group Policy Object (GPO) Creation & Configuration
-* GPO Linking & Application to Organizational Units
-* Active Directory Access & Policy Management
+|-------------------------------------------------------------------|
+| Active Directory Department & Organizational Unit (OU) Management |
+| User Account Creation & Management                                |
+| Security Group Creation & Management                              |
+| User Group Membership Management                                  |
+| Computer Account & OU Management                                  |
+| Group Policy Object (GPO) Creation & Configuration                |
+| GPO Linking & Application to Organizational Units                 |
+| Active Directory Access & Policy Management                       |
 
 
 Can u summarize this as skills, make it into bullets points
