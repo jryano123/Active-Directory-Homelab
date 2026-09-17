@@ -7,28 +7,26 @@ I'm a computer science graduate I like learning by building things hands-on, whe
 
 # Skills
 
-| Setting up Skills                                        
-|-----------------------------------------------|
-| VMware Workstation Pro & Virtual Machine Setup|
-| Windows OS Installation & Configuration       |
-| Active Directory Domain Services (AD DS)      |
-| Domain Controller (DC01) Configuration        |
-| Network & IP Configuration                    |
-| Client Machine (CLIENT01) Setup               |
-| Domain Joining & Active Directory Integration |
-| Basic Windows Server & Client Administration  |
+**Environment Setup**
+- VMware Workstation Pro & Virtual Machine Setup
+- Windows OS Installation & Configuration       
+- Active Directory Domain Services (AD DS)      
+- Domain Controller (DC01) Configuration        
+- Network & IP Configuration                   
+- Client Machine (CLIENT01) Setup               
+- Domain Joining & Active Directory Integration 
+- Basic Windows Server & Client Administration  
 
 
-| Active Directory Skills
-|-------------------------------------------------------------------|
-| Active Directory Department & Organizational Unit (OU) Management |
-| User Account Creation & Management                                |
-| Security Group Creation & Management                              |
-| User Group Membership Management                                  |
-| Computer Account & OU Management                                  |
-| Group Policy Object (GPO) Creation & Configuration                |
-| GPO Linking & Application to Organizational Units                 |
-| Active Directory Access & Policy Management                       |
+**Active Directory Administration**
+- Active Directory Department & Organizational Unit (OU) Management 
+- User Account Creation & Management                                
+- Security Group Creation & Management                              
+- User Group Membership Management                                  
+- Computer Account & OU Management                                  
+- Group Policy Object (GPO) Creation & Configuration                
+- GPO Linking & Application to Organizational Units                 
+- Active Directory Access & Policy Management                       
 
 ## Tools Used
 - VirtualBox — virtualization platform for running all VMs
