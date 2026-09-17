@@ -8,15 +8,15 @@ I'm a computer science graduate I like learning by building things hands-on, whe
 # Skills
 
 | Setting up Skills                                        
-|-----------------------------------------------|----------------------------|
-* VMware Workstation Pro & Virtual Machine Setup
-* Windows OS Installation & Configuration
-* Active Directory Domain Services (AD DS)
-* Domain Controller (DC01) Configuration
-* Network & IP Configuration
-* Client Machine (CLIENT01) Setup
-* Domain Joining & Active Directory Integration
-* Basic Windows Server & Client Administration
+|-----------------------------------------------|
+| VMware Workstation Pro & Virtual Machine Setup|
+| Windows OS Installation & Configuration       |
+| Active Directory Domain Services (AD DS)      |
+| Domain Controller (DC01) Configuration        |
+| Network & IP Configuration                    |
+| Client Machine (CLIENT01) Setup               |
+| Domain Joining & Active Directory Integration |
+| Basic Windows Server & Client Administration  |
 
 
 | Active Directory Skills
