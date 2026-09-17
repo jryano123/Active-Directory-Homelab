@@ -2,13 +2,19 @@
 <a href="https://www.linkedin.com/in/john-rey-yano-8180b937a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
+I'm a Computer Science graduate interested in an IT Career. I enjoy learning through hands-on projects, home lab environments, and practical troubleshooting. This project demonstrates my experience building a small Active Directory environment from scratch, including configuring a domain controller, creating users and organizational units, managing security groups, and implementing Group Policy.
 
-I'm a computer science graduate I like learning by building things hands-on, whether that's setting up home lab environments, working through challenges, or documenting projects like this one. This repo covers one of those projects: setting up a small Active Directory environment from scratch.
+## Project Overview
+This project involved building a small Windows Active Directory environment in a virtualized lab.
+
+The environment consists of a Windows Server domain controller and a Windows client machine. The domain controller was configured with Active Directory Domain Services (AD DS) and DNS, while the client machine was configured and joined to the domain.
+
+After establishing the domain environment, I created organizational units, departments, user accounts, and security groups. I also configured Group Policy Objects (GPOs), linked them to the appropriate OUs, and verified that the policies were correctly applied.
 
 # Skills
 
 **Environment Setup**
-- VMware Workstation Pro & Virtual Machine Setup
+- Oracle Virtual Box & Virtual Machine Setup
 - Windows OS Installation & Configuration       
 - Active Directory Domain Services (AD DS)      
 - Domain Controller (DC01) Configuration        
