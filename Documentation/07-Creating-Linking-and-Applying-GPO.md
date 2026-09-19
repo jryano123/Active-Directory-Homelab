@@ -9,14 +9,23 @@ Tools > GPO
 #### Creating the GPO
 
 Created a new GPO using the Group Policy Management Console (GPMC).
+
 Click Create a GPO in this domain, and link it here...
+
 ![Create GPO](../Screenshots/07-CreateGPO.png)
+
 Name it: IT message 
+
 ![GPO Name](../Screenshots/07-it-msg.png)
+
 Right click > IT message > Edit
+
 ![GPO Edit](../Screenshots/07-Edit-it-msg.png)
 
+Computer Configuration > Policies > Windows Settings > Security Settings > Local Policies > Security Options 
+
 ![GPO Name](../Screenshots/07-Edit-GPO.png)
+
 #### Test the GPO
 
 ![GPO Name](../Screenshots/07-Confirm-GPO.png)
