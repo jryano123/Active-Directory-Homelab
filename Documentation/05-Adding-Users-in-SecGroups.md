@@ -4,6 +4,8 @@ Added users to their corresponding departmental security groups to manage access
 
 By assigning users to security groups, permissions can be managed at the group level instead of configuring access for each user individually. This makes user and access management easier to maintain as the organization grows.
 
+Right Click User > Properties > Member of > Add > Input Name > OK
+
 #### IT Department
 
 Added IT users to the IT security group.
