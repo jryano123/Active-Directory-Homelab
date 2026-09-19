@@ -17,20 +17,6 @@ Created a new GPO using the Group Policy Management Console (GPMC).
 ![GPO Edit](../Screenshots/07-Edit-it-msg.png)
 
 ![GPO Name](../Screenshots/07-Edit-GPO.png)
-#### Linking the GPO
+#### Test the GPO
 
-Linked the newly created GPO to the appropriate Organizational Unit (OU) containing CLIENT01.
-
-![Link GPO](screenshots/07-link-gpo.png)
-
-#### Configuring the GPO
-
-Edited the GPO settings using the Group Policy Management Editor to define the desired policy configuration.
-
-![Edit GPO](screenshots/07-edit-gpo.png)
-
-#### Applying and Verifying the GPO
-
-Updated the Group Policy settings on CLIENT01 and verified that the GPO was successfully applied.
-
-![GPO Verification](screenshots/07-gpo-verification.png)
+![GPO Name](../Screenshots/07-Confirm-GPO.png)
