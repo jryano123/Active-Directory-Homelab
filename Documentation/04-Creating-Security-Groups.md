@@ -8,4 +8,4 @@ Created security groups for the IT, HR, and Sales departments and organized them
 
 #### HR Department
 
-![HR Security Group](screenshots/04-hr-security-group.png)
+![HR Security Group](../Screenshots/04-hr-sec-group.png)
