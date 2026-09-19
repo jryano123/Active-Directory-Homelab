@@ -11,7 +11,9 @@ Tools > GPO
 Created a new GPO using the Group Policy Management Console (GPMC).
 
 ![Create GPO](../Screenshots/07-CreateGPO.png)
-(../Screenshots/07-it-msg.png)
+
+![GPO Name](../Screenshots/07-it-msg.png)
+
 #### Linking the GPO
 
 Linked the newly created GPO to the appropriate Organizational Unit (OU) containing CLIENT01.
