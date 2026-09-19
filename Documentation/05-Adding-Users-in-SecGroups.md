@@ -14,4 +14,4 @@ Added IT users to the IT security group.
 
 Added HR users to the HR security group.
 
-![HR Users in Security Group](screenshots/05-hr-users-group.png)
+![HR Users in Security Group](../Screenshots/05-hr-user-added-group.png)
