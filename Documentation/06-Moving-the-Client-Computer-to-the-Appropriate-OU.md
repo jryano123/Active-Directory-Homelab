@@ -4,4 +4,6 @@ Moved the CLIENT01 computer account from the default Computers container into th
 
 Organizing computer accounts into the correct OUs allows administrators to manage computers more effectively and apply department-specific Group Policy Objects (GPOs) to the appropriate devices.
 
+AD Users & Comp > Computers > Right Click Client 01 > Move > Choose IT OU > OK
+
 ![CLIENT01 in Appropriate OU](../Screenshots/06-client01-ou.png)
